@@ -11,15 +11,15 @@ We expect our project very energetic!
 
 # Team members (SKKU Software students)
 
-**박동찬 Park Dongchan `ParkDongChan` (Team Leader)** 
-- student ID : 2018311110
-- E-mail : tajanboy0359@naver.com
-- Role : Overall project management, writing the code of project and code review of E2 team
+**채상은 Chae Sangeun `andrewchea` (Team Leader)** 
+- student ID : 2018314760
+- E-mail : andrewchea@naver.com
+- Role : Overall project management, writing the code of Bactracking and Trie Algorithm and code review of L3 Team
 
-**이정우 Lee Jeongwoo `jeongwoo25`**
-- student ID : 2018314938
-- E-mail : ljwoo98@naver.com
-- Role : Code editing of Sorting folder & Add new algorithm for sorting
+**김연재 Kim YeonJae `yeonjaekim99`**
+- student ID : 2019311895
+- E-mail : semote2@naver.com
+- Role : Backtracking and Trie Algorithm 
 
 **이지우 Lee Jiwoo `LJW25`**
 - student ID : 2018314894
