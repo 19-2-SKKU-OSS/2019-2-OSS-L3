@@ -19,17 +19,23 @@ We expect our project very energetic!
 **김연재 Kim YeonJae `yeonjaekim99`**
 - student ID : 2019311895
 - E-mail : semote2@naver.com
-- Role : Backtracking and Trie Algorithm 
+- Role : Code editing of Backtracking and Trie Algorithm 
 
-**이지우 Lee Jiwoo `LJW25`**
-- student ID : 2018314894
-- E-mail : dbjwlee@gmail.com
-- Role : Code editing of the other folders & Wiki tab management
+**박성민 Park Sungmin `MelonSungMin`**
+- student ID : 2018312186
+- E-mail : jumis77@naver.com
+- Role : Code editing of the other Searching and Sorting Algorithm
 
-**조민규 Jo Mingyu `redjo99`**
-- student ID : 2018311977
-- E-mail : redjo99@naver.com
-- Role : Code editing of Data Structure folder & Add new algorithm for sorting
+**김지희 Kim Jihee `mii2026`**
+- student ID : 2018311464
+- E-mail : mii2026@naver.com
+- Role : Code editing of Data Bit algorithm & Add new algorithm for sorting
+
+**진우현  Chin Woohyun `CHINWH`**
+- student ID : 2012311228
+- E-mail : bootlab@naver.com
+- Role : Code editing of Bit algorithm @ Add new alogoritm for sorting
+
 
 Code review of our project is carried out every three days.  
 
