@@ -1,2 +1,2 @@
-BIT ALGORITHM
---------------------
+###BIT ALGORITHM
+	-detect opposite signs
