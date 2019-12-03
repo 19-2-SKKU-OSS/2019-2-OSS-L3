@@ -1,5 +1,6 @@
 #include <stdio.h>
 
+
 void swap (int *a,int *b)//To swap the variables//
 {
     int t = *a;
