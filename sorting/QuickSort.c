@@ -14,6 +14,7 @@ void display(int arr[], int n)
     printf("\n");
 }
 
+
 /*Swap function to swap two values*/
 void swap(int *first, int *second)
 {
