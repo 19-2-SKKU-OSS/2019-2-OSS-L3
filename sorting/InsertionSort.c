@@ -16,6 +16,7 @@ void display(int arr[], int n){
 /*This is where the sorting of the array takes place
  arr[] --- Array to be sorted
  size --- Array Size
+ 
  */
 void insertionSort(int arr[], int size){
     int j,temp,i;
