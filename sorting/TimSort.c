@@ -5,6 +5,7 @@
 #include <math.h>
 #define RUN 32; 
   
+
 // this function sorts array from left index to 
 // to right index which is of size atmost RUN 
 void insertionSort(int arr[], int left, int right) 
