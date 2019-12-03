@@ -2,6 +2,7 @@
 #include <stdio.h>
 #include <stdlib.h>
   
+
 // A function to sort the algorithm using gnome sort 
 void gnomeSort(int arr[], int n) 
 { 
