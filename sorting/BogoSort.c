@@ -3,6 +3,7 @@
 #include <stdbool.h>
 
 
+
 bool check_sorted(int *a, int n)
 {
   while ( --n >= 1 ) {
