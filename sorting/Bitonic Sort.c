@@ -6,6 +6,7 @@
 /*The parameter dir indicates the sorting direction, ASCENDING 
    or DESCENDING; if (a[i] > a[j]) agrees with the direction, 
    then a[i] and a[j] are interchanged.*/
+
 void compAndSwap(int a[], int i, int j, int dir) 
 { 
     if (dir == (a[i] > a[j])) 
