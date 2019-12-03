@@ -10,6 +10,7 @@ const char *notation = "Shell Sort Big O Notation:\
 						\n--> Average Case: depends on gap sequence \
 						\n--> Worst Case: O(n)";
 
+
 void show_data(int arr[], int len)
 {
     int i;
