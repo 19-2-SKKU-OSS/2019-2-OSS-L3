@@ -2,6 +2,7 @@
 Binary Insertion sort is a variant of Insertion sorting in which proper location to insert the selected element is found using the binary search.
 */
 
+
 #include<stdio.h>
 
 int binarySearch(int a[], int item, int low, int high)
