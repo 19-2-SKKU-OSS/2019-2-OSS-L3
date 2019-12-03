@@ -8,6 +8,7 @@
     - djb2
     - xor8 (8 bits)
     - adler_32 (32 bits)
+    
 */
 
 long long sdbm(char s[])
