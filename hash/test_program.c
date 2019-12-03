@@ -1,6 +1,7 @@
 /*
     author: Christian Bender
     This file contains a simple test program for each hash-function.
+    //revise from sangeunchae
 */
 
 #include <stdio.h>
