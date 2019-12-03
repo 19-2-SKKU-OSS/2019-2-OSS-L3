@@ -21,7 +21,7 @@ int main()
 	for(i = 0; i < ARRAY_LENGTH; i++)
 		printf("%d ", ARRAY[i]);
 
-	printf("\nSorted Array : ");				//Then we sort it using Bubble Sort..
+	printf("\nSorted Array : ");				
 
 	while(!isSorted)
 	{ //While our array's not sorted
