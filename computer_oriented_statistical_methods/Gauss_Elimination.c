@@ -1,3 +1,4 @@
+//Gauss_Elimination.c
 #include<stdio.h>
 #include<conio.h>
 void display(float a[20][20],int n)
