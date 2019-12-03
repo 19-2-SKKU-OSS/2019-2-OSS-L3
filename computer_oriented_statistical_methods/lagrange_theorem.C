@@ -4,6 +4,7 @@
 #include<math.h>
 void main()
 {
+	//langrange_theorem
 	float x[20],y[20],a,sum,p;
 	int n,i,j;
 	clrscr();
