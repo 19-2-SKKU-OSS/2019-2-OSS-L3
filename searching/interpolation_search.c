@@ -1,3 +1,5 @@
+//interpolation_search
+
 #include<stdio.h>
 int interpolationSearch(int arr[], int n, int x)
 { 
