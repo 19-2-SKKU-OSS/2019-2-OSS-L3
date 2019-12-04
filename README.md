@@ -247,6 +247,11 @@ You can see the contribution of members to the project. you can also check the s
 This directory contains
 	-client.c
 	-server.c
+	
+## bit_algorithm
+	- find_sigle_number.c
+	- detect_opposite_signs.c
+	- swap_bits.c
 
 First execute server.c in a terminal and then client.c in a different terminal. Enables communication between two terminals.
  
