@@ -245,8 +245,8 @@ You can see the contribution of members to the project. you can also check the s
 	
 ## Simple Client Server Implementation
 This directory contains
-	-client.c
-	-server.c
+	- client.c
+	- server.c
 	
 ## bit_algorithm
 	- find_sigle_number.c
