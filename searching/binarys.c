@@ -1,4 +1,6 @@
-    #include <stdio.h>
+//binarys    
+
+#include <stdio.h>
      
     int BinarySearch(int* arr, int n, int search)
     {
