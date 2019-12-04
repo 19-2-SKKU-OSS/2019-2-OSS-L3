@@ -3,6 +3,7 @@
 
 #define NUM_OF_CHARS 256
 
+
 int max(int a, int b) {return (a>b)? a:b;}
 
 void computeArray(char *pattern, int size, int arr[NUM_OF_CHARS])
