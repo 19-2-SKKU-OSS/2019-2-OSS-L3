@@ -1,3 +1,4 @@
 BIT ALGORITHM
 ==========================
--detect opposite signs
+- detect opposite signs
+- find single number
