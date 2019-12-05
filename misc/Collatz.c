@@ -1,6 +1,7 @@
 /*
 collatz conjecture: a series for a number n in which if n even then the next number is n/2 ,but if n is odd then the next number is 3n+1.
 this series continues till it reaches 1*/
+//
 
 #include<stdio.h>
 int main()
