@@ -96,10 +96,9 @@ int main()
 	(0)---(1) 
 	*/
 	bool graph[V][V] = {{0, 1, 1, 1}, 
-		{1, 0, 1, 0}, 
-		{1, 1, 0, 1}, 
-		{1, 0, 1, 0}, 
-	}; 
+			    {1, 0, 1, 0}, 
+			    {1, 1, 0, 1}, 
+			    {1, 0, 1, 0}, }; 
 	int m = 3; // Number of colors 
 	graphColoring (graph, m); 
 	return 0; 
