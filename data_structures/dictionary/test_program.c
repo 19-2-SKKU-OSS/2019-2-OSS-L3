@@ -4,7 +4,6 @@
 */
 
 #include <stdio.h>
-
 /* includes the dictionary */
 #include "dict.h"
 
