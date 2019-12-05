@@ -2,6 +2,7 @@
 
 
 #include <stdio.h>
+
  
 int number = 9;
 int visit[9];
