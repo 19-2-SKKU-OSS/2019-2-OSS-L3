@@ -1,3 +1,5 @@
+//GCD_BruteForce
+
 int get_gcd(int a,int b)
 {
     int max_div = 1;      //가장 큰 공약수를 저장할 변수
