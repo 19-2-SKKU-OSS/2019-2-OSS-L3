@@ -1,7 +1,6 @@
 // Simple C++ program to find diameter 
 // of a binary tree. 
 #include <stdio.h> 
-  
 /* Tree node structure used in the program */
 struct Node { 
     int data; 
