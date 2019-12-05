@@ -1,3 +1,4 @@
+
 /*------------------Trie Data Structure----------------------------------*/
 /*-------------Implimented for search a word in dictionary---------------*/
 
