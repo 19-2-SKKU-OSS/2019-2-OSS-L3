@@ -1,3 +1,4 @@
+//isArmstrong
 #include<stdio.h>
 
 int main()
