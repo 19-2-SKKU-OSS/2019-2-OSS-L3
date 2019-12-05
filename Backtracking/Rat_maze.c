@@ -35,9 +35,9 @@ this function prints one of the feasible solutions.*/
 bool solveMaze(int maze[N][N]) 
 { 
 	int sol[N][N] = { { 0, 0, 0, 0 }, 
-					{ 0, 0, 0, 0 }, 
-					{ 0, 0, 0, 0 }, 
-					{ 0, 0, 0, 0 } }; 
+			  { 0, 0, 0, 0 }, 
+			  { 0, 0, 0, 0 }, 
+			  { 0, 0, 0, 0 } }; 
 
 	if (solveMazeUtil(maze, 0, 0, sol) == false) { 
 		printf("Solution doesn't exist"); 
@@ -84,9 +84,9 @@ bool solveMazeUtil(int maze[N][N], int x, int y, int sol[N][N])
 int main() 
 { 
 	int maze[N][N] = { { 1, 0, 0, 0 }, 
-					{ 1, 1, 0, 1 }, 
-					{ 0, 1, 0, 0 }, 
-					{ 1, 1, 1, 1 } }; 
+			   { 1, 1, 0, 1 }, 
+			   { 0, 1, 0, 0 }, 
+			   { 1, 1, 1, 1 } }; 
 
 	solveMaze(maze); 
 	return 0; 
