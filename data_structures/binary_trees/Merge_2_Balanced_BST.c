@@ -10,6 +10,7 @@ struct node
     struct node* left; 
     struct node* right; 
 }; 
+
   
 // A utility unction to merge two sorted arrays into one 
 int *merge(int arr1[], int arr2[], int m, int n); 
