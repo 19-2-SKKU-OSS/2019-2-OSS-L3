@@ -1,6 +1,9 @@
+//Bitonic_Sort
+
 /* C Program for Bitonic Sort. Note that this program 
 
    works only when size of input is a power of 2. */
+
 #include <stdio.h>
 #include <stdlib.h>
   
