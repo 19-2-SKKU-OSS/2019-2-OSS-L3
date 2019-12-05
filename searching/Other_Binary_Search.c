@@ -34,6 +34,7 @@ int binarySearch(int array[], int leng, int searchX)
 }
 
 
+
 void main(int argc, char *argv[])
 {
 	int array[len] = { 5, 8 , 10 , 14 ,16 };
