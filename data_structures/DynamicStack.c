@@ -2,7 +2,6 @@
 #include <stdlib.h>
 
 
-
 typedef enum { false, true } bool;
 typedef int Data;
 
