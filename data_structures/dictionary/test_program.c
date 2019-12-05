@@ -1,3 +1,4 @@
+
 /*
     author: Christian Bender
     This is a simple test program for the dictionary.
