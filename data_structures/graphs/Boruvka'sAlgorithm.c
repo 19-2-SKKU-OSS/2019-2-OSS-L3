@@ -1,3 +1,4 @@
+
 // Boruvka's algorithm to find Minimum Spanning 
 
 #include <stdio.h> 
