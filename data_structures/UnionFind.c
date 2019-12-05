@@ -1,3 +1,4 @@
+
 // UnionFind algorithm is same as disjoint-set algorithm.
 #include <stdio.h>
 
