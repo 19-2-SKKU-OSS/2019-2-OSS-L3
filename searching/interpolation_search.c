@@ -33,5 +33,6 @@ int main()
         printf("Element found at position %d", index+1);
     else
         printf("Element not found.");
+   
     return 0;
 }
