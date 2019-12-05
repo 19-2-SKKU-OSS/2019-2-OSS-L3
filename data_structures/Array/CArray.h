@@ -26,6 +26,7 @@ extern "C" {
 	#define POSITION_NOT_INIT 3
 	#define POSITION_EMPTY 4
 	#define ARRAY_FULL 5
+	#define ARRAY_NUM 5
 
 	typedef struct CArray {
 		int *array;
