@@ -1,3 +1,4 @@
+
 // The code is adopted from http://goo.gl/SDH9hH 
 #include<stdio.h> 
 #include<stdlib.h> 
