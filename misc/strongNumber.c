@@ -1,3 +1,5 @@
+//strongNumber
+
 /**
  * Modified on 07/12/2017, Kyler Smith
  *
