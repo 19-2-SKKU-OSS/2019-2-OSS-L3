@@ -1,6 +1,5 @@
 #include<stdio.h>
 
-
 typedef int BData;
 
 typedef struct _bTreeNode
