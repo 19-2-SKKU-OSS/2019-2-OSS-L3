@@ -2,6 +2,7 @@
 
 #include <stdio.h>
 
+
 // finding parent node function
 int getParent(int parent[], int x){
     if(parent[x] == x){
