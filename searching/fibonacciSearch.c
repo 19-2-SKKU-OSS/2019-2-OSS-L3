@@ -1,5 +1,4 @@
-//fibonacciSearch
-
+//FibonacciSearch
 
 #include <stdio.h>
 #include <stdlib.h>
