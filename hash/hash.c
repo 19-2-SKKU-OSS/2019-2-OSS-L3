@@ -1,3 +1,4 @@
+//Hash
 /*
     author: Christian Bender
     This is the implementation unit of the hash-functions.
