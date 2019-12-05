@@ -5,7 +5,6 @@
     The stack is generic and self growing. 
 */
 
-
 #ifndef __STACK__
 #define __STACK__
 
