@@ -3,7 +3,6 @@
 #include<limits.h>
 #include<string.h>
 
-
 //Structure for storing a graph
 struct Graph{
 	int vertexNum;
