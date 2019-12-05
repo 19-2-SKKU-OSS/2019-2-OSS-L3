@@ -1,3 +1,4 @@
+
 #include <stdio.h>
 #include <stdlib.h>
 /* A basic unbalanced binary search tree implementation in C, with the following functionalities implemented:
