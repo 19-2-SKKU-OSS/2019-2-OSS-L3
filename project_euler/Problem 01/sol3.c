@@ -6,9 +6,11 @@ Find the sum of all the multiples of 3 or 5 below N.
 '''
 This solution is based on the pattern that the successive numbers in the series follow: 0+3,+2,+1,+3,+1,+2,+3.
 */
+
 #include <stdio.h>
 
 int main() {
+	
 	int n = 0;
 	int sum = 0;
 	int num = 0;
@@ -45,5 +47,7 @@ int main() {
 		sum += num;
 	}
 
+	
 	printf("%d\n", sum);
+	
 }
