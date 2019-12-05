@@ -1,7 +1,6 @@
 /*
     author: Christian Bender
     public interface for the dictionary. 
-
     The dictionary prepares space for 1000 elements.
 */
 
