@@ -4,3 +4,4 @@ BIT ALGORITHM
 - find single number
 - swap bits
 - add two number
+- smallest of three
