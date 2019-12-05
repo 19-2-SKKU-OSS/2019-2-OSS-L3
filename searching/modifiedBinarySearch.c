@@ -1,5 +1,4 @@
-//modifiedBinarySearch
-
+//ModifiedBinarySearch
 
 #include<stdio.h>
 
