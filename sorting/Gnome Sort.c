@@ -4,7 +4,6 @@
 #include <stdlib.h>
   
 
-
 // A function to sort the algorithm using gnome sort 
 void gnomeSort(int arr[], int n) 
 { 
@@ -26,6 +25,7 @@ void gnomeSort(int arr[], int n)
     return; 
 } 
   
+
 // A utility function ot print an array of size n 
 void printArray(int arr[], int n) 
 { 
