@@ -3,6 +3,7 @@
   function can be modified according to the data type, easily.
   deleteNode deletes a node when passed with a key of the node.
 */
+
 #include <stdio.h>
 
 struct node
