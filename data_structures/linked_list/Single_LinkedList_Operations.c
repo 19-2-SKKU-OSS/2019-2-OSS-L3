@@ -1,3 +1,4 @@
+
 /*Includes structure for a node which can be use to make new nodes of the Linked List.
   It is assumed that the data in nodes will be an integer, though
   function can be modified according to the data type, easily.
