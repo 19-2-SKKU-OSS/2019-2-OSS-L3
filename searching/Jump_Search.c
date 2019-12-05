@@ -34,3 +34,4 @@ int jump_search(int* arr, int x) {
 		return prev;
 	return -1;
 }
+
