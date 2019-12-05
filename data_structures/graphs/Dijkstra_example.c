@@ -1,6 +1,5 @@
 #include <stdio.h>
 #include <limits.h> // INT_MAX에 이용
- 
 // 정점의 개수를 정의
 #define V 5
  
