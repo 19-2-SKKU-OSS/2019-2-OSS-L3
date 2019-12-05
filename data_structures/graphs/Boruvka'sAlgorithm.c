@@ -1,7 +1,6 @@
 // Boruvka's algorithm to find Minimum Spanning 
 
 #include <stdio.h> 
-  
 // a structure to represent a weighted edge in graph 
 struct Edge 
 { 
