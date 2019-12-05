@@ -20,5 +20,7 @@ int main(){
         sum = sum - ((15*p*(p+1))/2);
         printf("%lld\n", sum);		//print the sum of all numbers that are multiples of 3 & 5 below N
     }
+    
     return 0;
+    
 }
