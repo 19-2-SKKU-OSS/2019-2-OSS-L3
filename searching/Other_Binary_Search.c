@@ -4,7 +4,6 @@
 #include <stdlib.h>
 #define len 5
 
-
 int binarySearch(int array[], int leng, int searchX)
 {
 	int pos = -1, right, left, i = 0;
@@ -32,8 +31,6 @@ int binarySearch(int array[], int leng, int searchX)
 
 
 }
-
-
 
 void main(int argc, char *argv[])
 {
