@@ -1,6 +1,5 @@
 /*
  * CArrayTests.c
- *
  * Author: Leonardo Vencovsky
  * Created on 19/03/2018
  *
