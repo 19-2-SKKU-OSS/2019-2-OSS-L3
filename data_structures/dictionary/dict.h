@@ -1,3 +1,4 @@
+
 /*
     author: Christian Bender
     public interface for the dictionary. 
