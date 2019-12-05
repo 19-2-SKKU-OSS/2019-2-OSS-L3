@@ -11,6 +11,7 @@ typedef struct {
 	GNode** heads;
 } Graph;
 
+
 void CreateGraph(Graph* pgraph, int num);
 void DestroyGraph(Graph* pgraph);
 void AddEdge(Graph* pgraph, int src, int dest);
