@@ -1,3 +1,5 @@
+//Mirror
+
 #include <stdio.h>
 #include <string.h>  // we include the library string.h to the use of string 
 
