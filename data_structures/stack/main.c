@@ -1,5 +1,6 @@
 //program for stack using array
 
+
 #include <stdio.h>
 
 void push();
