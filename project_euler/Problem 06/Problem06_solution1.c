@@ -1,5 +1,7 @@
 // This code is for 1st solution of Project Euler Problem 6.
 // redjo99 updated in 5.June.
+//
+
 
 #include<stdio.h>
 
