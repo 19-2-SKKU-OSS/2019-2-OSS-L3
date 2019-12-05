@@ -33,6 +33,7 @@
 
 void swap(CArray *array, int position1, int position2);
 
+
 CArray * getCArray(int size)
 {
 	CArray *array = (CArray *) malloc(sizeof(CArray));
