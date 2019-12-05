@@ -2,7 +2,6 @@
 #include <stdlib.h>
 #include "dict.h"
 
-
 /* simple constructor */
 Dictionary * create_dict(void)
 {
