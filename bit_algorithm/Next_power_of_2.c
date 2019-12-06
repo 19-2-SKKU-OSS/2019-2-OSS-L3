@@ -10,6 +10,7 @@ unsigned count = 0;
 if (n && !(n & (n - 1))) 
     return n; 
   
+  
 while( n != 0) 
 { 
     n >>= 1; 
