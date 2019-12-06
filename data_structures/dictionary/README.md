@@ -18,6 +18,7 @@ create_dict: is a simple constructor for creating
              member field 'number_of_elements'
              and prepares the inner array 'elements'
 
+
 ``` c
 int add_item_label(Dictionary *,char label[],void *);
 ```
