@@ -1,5 +1,4 @@
 //Insertion_Sort
-
 //sorting of array list using insertion sort
 #include <stdio.h>
 
