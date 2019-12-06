@@ -7,7 +7,7 @@ Our final goal is to give pull requests to TheAlgorithms/C and take some comment
 We expect our project very energetic!  
  
 
-# Team members 
+# Team members of L3
 
 **채상은 Chae Sangeun `andrewchea` (Team Leader)** 
 - student ID : 2018314760
