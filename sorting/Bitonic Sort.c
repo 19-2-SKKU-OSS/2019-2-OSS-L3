@@ -1,5 +1,4 @@
 //Bitonic_Sort
-
 /* C Program for Bitonic Sort. Note that this program 
 
    works only when size of input is a power of 2. */
@@ -54,6 +53,7 @@ void bitonicSort(int a[], int low, int cnt, int dir)
     } 
 } 
   
+
 /* Caller of bitonicSort for sorting the entire array of 
    length N in ASCENDING order */
 void sort(int a[], int N, int up) 
