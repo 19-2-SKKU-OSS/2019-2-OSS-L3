@@ -1,21 +1,37 @@
-title: "Welcome to Jekyll!"
-date: 2017-10-20 08:26:28 -0400
-categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+layout: page
+title: About the Theme
+tags: [about, Jekyll, theme, moon]
+date: 2016-03-21
+comments: false
+---
+    
+<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+## Features
+* Minimal, you can focus on your content
+* Responsive
+* Disqus integration
+* Syntax highlighting
+* Optional post image
+* Social icons
+* Page for sharing projects
+* Optional background image
+* Simple navigation menu
+* MathJax support
 
-Jekyll also offers powerful support for code snippets:
+## Preview
 
-​```python
-def print_hi(name):
-  print("hello", name)
-print_hi('Tom')
-​```
+{% capture images %}
+    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
+    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
+{% endcapture %}
+{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+## Getting Started
+
+To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
+      
+[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
