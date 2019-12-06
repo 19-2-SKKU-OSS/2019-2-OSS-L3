@@ -37,7 +37,6 @@ We expect our project very energetic!
 
 Code review of our project is carried out every three days.  
 
-_If there are any errors or problems in certain parts of the project, such as README or codes, please send e-mail to tajanboy0359@naver.com._
 
 # Overview what we do
 ### Commits
