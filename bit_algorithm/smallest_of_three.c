@@ -13,6 +13,7 @@ int smallest(int x, int y, int z)
     return min(x, min(y, z)); 
 } 
   
+
 int main() 
 { 
     int x = 12, y = 15, z = 5; 
