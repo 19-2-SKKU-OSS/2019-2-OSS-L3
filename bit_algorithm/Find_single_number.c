@@ -1,6 +1,7 @@
 #include <stdio.h> 
 #define INT_SIZE 32 
 
+
   
 int getSingle(int arr[], int n) 
 { 
