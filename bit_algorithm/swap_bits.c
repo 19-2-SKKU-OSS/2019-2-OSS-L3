@@ -1,5 +1,6 @@
 #include<stdio.h> 
   
+
 int swapBits(unsigned int x, unsigned int p1, unsigned int p2, unsigned int n) 
 { 
     /* Move all bits of first set to rightmost side */
