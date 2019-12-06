@@ -7,7 +7,7 @@ Our final goal is to give pull requests to TheAlgorithms/C and take some comment
 We expect our project very energetic!  
  
 
-# Team members (SKKU Software students)
+# Team members 
 
 **채상은 Chae Sangeun `andrewchea` (Team Leader)** 
 - student ID : 2018314760
