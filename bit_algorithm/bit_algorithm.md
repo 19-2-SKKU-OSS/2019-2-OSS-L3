@@ -5,3 +5,4 @@ BIT ALGORITHM
 - swap bits
 - add two number
 - smallest of three
+- boolean array puzzle
