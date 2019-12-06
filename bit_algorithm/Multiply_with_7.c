@@ -1,6 +1,7 @@
 
 # include<stdio.h> 
   
+
 int multiplyBySeven(unsigned int n) 
 {   
     /* Note the inner bracket here. This is needed  
