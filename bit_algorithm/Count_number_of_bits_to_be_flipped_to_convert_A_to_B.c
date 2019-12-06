@@ -3,6 +3,7 @@
 // to convert A into B 
 #include <iostream> 
 using namespace std; 
+
   
 // Function that count set bits 
 int countSetBits(int n) 
