@@ -1,5 +1,6 @@
 // C Program to find whether a 
 // no is power of two 
+
 #include<stdio.h> 
 #include<stdbool.h> 
 #include<math.h> 
