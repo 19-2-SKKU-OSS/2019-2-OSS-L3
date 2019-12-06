@@ -1,5 +1,6 @@
 #include <stdio.h> 
 #define CHAR_BIT 8 
+
   
 /*Function to find minimum of x and y*/
 int min(int x, int y) 
