@@ -3,6 +3,7 @@
 // of a number is palindrome 
 #include<iostream> 
 using namespace std; 
+
   
 // This function returns true if k'th bit in x  
 // is set (or 1). For example if x (0010) is 2  
