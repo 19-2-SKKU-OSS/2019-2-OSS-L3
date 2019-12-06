@@ -1,8 +1,6 @@
 //Pancake_Sort
 #include <stdlib.h> 
 #include <stdio.h> 
-  
-
 
 /* Reverses arr[0..i] */
 
