@@ -1,6 +1,7 @@
 // C program to find position of only set bit in a given number 
 #include <stdio.h> 
   
+
 // A utility function to check whether n is a power of 2 or not. 
 // See http:// goo.gl/17Arj 
 int isPowerOfTwo(unsigned n) 
