@@ -22,3 +22,4 @@ int main()
     printf("%u", reverseBits(x)); 
     getchar(); 
 } 
+
