@@ -1,5 +1,6 @@
 // C Program for the binary  
 // representation of a given number 
+
 void bin(unsigned n) 
 { 
     /* step 1 */
