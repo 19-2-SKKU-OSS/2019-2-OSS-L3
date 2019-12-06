@@ -3,6 +3,7 @@
 # include <stdio.h> 
 # define  bool int 
   
+
 /* Function to get parity of number n. It returns 1 
    if n has odd parity, and returns 0 if n has even 
    parity */
