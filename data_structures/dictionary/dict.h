@@ -8,6 +8,7 @@
 #ifndef __DICT__H
 #define __DICT__H
 
+
 #define MAXELEMENTS 1000
 
 /*
