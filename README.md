@@ -45,14 +45,14 @@ _If there are any errors or problems in certain parts of the project, such as RE
 ### Commits
 You can check what we do in this project by seeing commits.
 From May 7 to June 11, we made 444 commits.
-- [checking commits](https://github.com/19-1-skku-oss/2019-1-OSS-E2/commits/master)
+- [checking commits](https://github.com/19-2-SKKU-OSS/2019-2-OSS-L3/commits/master)
 
 <img src="https://user-images.githubusercontent.com/49433615/59218686-c7ffe800-8bfb-11e9-9cc9-d4e7706c3fa2.JPG" width="400">
 
 ### Issues
 In this issue, you can check what we have raised and shared information in this project.
 We opened 16 issues, and 13 of them were closed.
-- [checking issues](https://github.com/19-1-skku-oss/2019-1-OSS-E2/issues)
+- [checking issues](https://github.com/19-2-SKKU-OSS/2019-2-OSS-L3/issues)
 
 <img src="https://user-images.githubusercontent.com/49433615/59218712-d8b05e00-8bfb-11e9-9c58-608dd45d31ac.JPG" width="400">
 <img src="https://user-images.githubusercontent.com/49433615/59218713-d948f480-8bfb-11e9-9d00-f95110170c7a.JPG" width="400">
@@ -60,7 +60,7 @@ We opened 16 issues, and 13 of them were closed.
 ### Pull requests
 After modifying the members' code, Merge can be checked through the consent and rejection process.
 We opened 154 pull requests, and all of them were closed now.
-- [checking pull requests](https://github.com/19-1-skku-oss/2019-1-OSS-E2/pulls)
+- [checking pull requests](https://github.com/19-2-SKKU-OSS/2019-2-OSS-L3/pulls?q=is%3Apr+is%3Aclosed)
 
 <img src="https://user-images.githubusercontent.com/42231056/59091570-96142a80-894a-11e9-9b27-85c000ccbb65.png" width="400">
 <img src="https://user-images.githubusercontent.com/42231056/59092217-f6f03280-894b-11e9-84b7-879da3a20a85.png" width="400">  
@@ -68,15 +68,15 @@ We opened 154 pull requests, and all of them were closed now.
 
 ### Projects
 You can check the flow of tasks in progress, completed tasks, and tasks in the process of modification in this project.
-- [Overview of this Project](https://github.com/19-1-skku-oss/2019-1-OSS-E2/projects/3)
-- [Progress of this Project](https://github.com/19-1-skku-oss/2019-1-OSS-E2/projects/2)
+- [Overview of this Project](https://github.com/19-2-SKKU-OSS/2019-2-OSS-L3/projects)
+
 
 <img src="https://user-images.githubusercontent.com/49433615/59218715-d948f480-8bfb-11e9-9e99-8e386a3b31de.JPG" width="400">
 <img src="https://user-images.githubusercontent.com/49433615/59218714-d948f480-8bfb-11e9-84cc-bd29a0013071.JPG" width="400">
 
 ### Wiki
 You can find informations about the members who are working on this project, what contribution they have made, and how the project is progressing over time.
-* [Home](https://github.com/19-1-skku-oss/2019-1-OSS-E2/wiki)
+* [Home](https://github.com/19-2-SKKU-OSS/2019-2-OSS-L3/wiki)
 	* [Individual activities by period](https://github.com/19-1-skku-oss/2019-1-OSS-E2/wiki/Individual-activities-by-period)
 	* [member's information](https://github.com/19-1-skku-oss/2019-1-OSS-E2/wiki/member's-information)
 	* [Individual parts of contributing to a project](https://github.com/19-1-skku-oss/2019-1-OSS-E2/wiki/Individual-parts-of-contributing-to-a-project)
@@ -88,7 +88,7 @@ _The details of the progress of each time period are uploaded to Wiki 'Individua
 
 ### Insights
 You can see the contribution of members to the project. you can also check the statistical figures associated with this project.
-- [checking Insights](https://github.com/19-1-skku-oss/2019-1-OSS-E2/pulse)
+- [checking Insights](https://github.com/19-2-SKKU-OSS/2019-2-OSS-L3/pulse)
 
 <img src="https://user-images.githubusercontent.com/49433615/59218722-dd751200-8bfb-11e9-8332-bc3f0fd57c8b.JPG" width="400">
 <img src="https://user-images.githubusercontent.com/49433615/59218711-d8b05e00-8bfb-11e9-8b95-16b9cf24cbd4.JPG" width="400">
