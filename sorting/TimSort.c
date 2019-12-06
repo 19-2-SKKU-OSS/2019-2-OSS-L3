@@ -1,4 +1,6 @@
+//TimSort
 // C program to perform TimSort. 
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>

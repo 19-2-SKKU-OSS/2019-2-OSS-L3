@@ -1,8 +1,8 @@
+
 /* Includes the functions for Recursive Traversals
    of a Binary Tree. It is assumed that nodes and
    tree have been created as per create_node.c
  */
-
 #include <stdio.h>
 
 struct node* inOrderTraversal(struct node *node)

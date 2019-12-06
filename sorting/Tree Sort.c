@@ -1,4 +1,7 @@
+//TreeSort
 // C program to implement Tree Sort 
+
+
 #include<stdio.h> 
   
 struct Node 
@@ -6,7 +9,8 @@ struct Node
     int key; 
     struct Node *left, *right; 
 }; 
-  
+   
+
 // A utility function to create a new BST Node 
 struct Node *newNode(int item) 
 { 

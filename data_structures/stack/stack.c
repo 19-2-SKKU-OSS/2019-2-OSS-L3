@@ -1,3 +1,4 @@
+
 /*
     author: Christian Bender
 
@@ -5,6 +6,7 @@
     The implementation uses the dynamic memory management and the principle
     of data hiding.
 */
+
 
 #include <stdio.h>
 #include <stdlib.h>

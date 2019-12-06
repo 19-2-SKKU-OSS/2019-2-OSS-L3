@@ -1,6 +1,7 @@
-// UnionFind algorithm is same as disjoint-set algorithm.
 
+// UnionFind algorithm is same as disjoint-set algorithm.
 #include <stdio.h>
+
 
 // finding parent node function
 int getParent(int parent[], int x){

@@ -1,6 +1,9 @@
+//Binary_Insertion_Sort
 /*
 Binary Insertion sort is a variant of Insertion sorting in which proper location to insert the selected element is found using the binary search.
 */
+
+
 
 #include<stdio.h>
 

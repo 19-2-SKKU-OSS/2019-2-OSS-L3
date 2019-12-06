@@ -1,6 +1,10 @@
+//Jump_Search
+
+
 #include <stdio.h>
 #include <math.h>
 #define min(X,Y) ((X) < (Y) ? (X) : (Y))  
+
 int jump_search(int* arr, int x);
 int n;
 
@@ -31,3 +35,4 @@ int jump_search(int* arr, int x) {
 		return prev;
 	return -1;
 }
+

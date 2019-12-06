@@ -1,7 +1,8 @@
+//Other_Binary_Search
+
 #include <stdio.h>
 #include <stdlib.h>
 #define len 5
-
 
 int binarySearch(int array[], int leng, int searchX)
 {
@@ -30,7 +31,6 @@ int binarySearch(int array[], int leng, int searchX)
 
 
 }
-
 
 void main(int argc, char *argv[])
 {

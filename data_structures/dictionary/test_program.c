@@ -1,10 +1,10 @@
+
 /*
     author: Christian Bender
     This is a simple test program for the dictionary.
 */
 
 #include <stdio.h>
-
 /* includes the dictionary */
 #include "dict.h"
 
@@ -15,6 +15,7 @@ int main(void)
 
     int value = 28; 
 
+    
     testObj1 = create_dict();
     testObj2 = create_dict();
 

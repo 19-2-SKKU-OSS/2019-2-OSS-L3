@@ -1,5 +1,8 @@
+//rabin_Karp_search
+
 #include <stdio.h>
 #include <string.h>
+
 
 /* Kabin-Karp algorithm for pattern searching
    d: radix-d notation. Ex. number from 0->9, d = 10

@@ -1,6 +1,6 @@
+
 #include <stdio.h> 
-#include <stdlib.h> 
-  
+#include <stdlib.h>  
 /* A binary tree node has data, pointer to left child 
    and a pointer to right child */
 struct node 

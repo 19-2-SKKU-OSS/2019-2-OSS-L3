@@ -24,6 +24,7 @@ int isprime(int no) {
 	return 1;
 }
 
+
 int main() {
 	int maxNumber = 0;
 	int n = 0;

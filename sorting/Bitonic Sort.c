@@ -1,11 +1,15 @@
+//Bitonic_Sort
 /* C Program for Bitonic Sort. Note that this program 
+
    works only when size of input is a power of 2. */
+
 #include <stdio.h>
 #include <stdlib.h>
   
 /*The parameter dir indicates the sorting direction, ASCENDING 
    or DESCENDING; if (a[i] > a[j]) agrees with the direction, 
    then a[i] and a[j] are interchanged.*/
+
 void compAndSwap(int a[], int i, int j, int dir) 
 { 
     if (dir == (a[i] > a[j])) 
@@ -49,6 +53,7 @@ void bitonicSort(int a[], int low, int cnt, int dir)
     } 
 } 
   
+
 /* Caller of bitonicSort for sorting the entire array of 
    length N in ASCENDING order */
 void sort(int a[], int N, int up) 

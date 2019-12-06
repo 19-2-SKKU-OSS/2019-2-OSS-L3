@@ -1,3 +1,4 @@
+
 #include<stdio.h>
 #include<stdlib.h>
 
@@ -10,6 +11,7 @@ typedef struct {
 	int num;
 	GNode** heads;
 } Graph;
+
 
 void CreateGraph(Graph* pgraph, int num);
 void DestroyGraph(Graph* pgraph);

@@ -1,6 +1,6 @@
+
 #include<stdio.h> 
 #include<stdlib.h> 
-  
 /* Link list node */
 struct Node 
 { 

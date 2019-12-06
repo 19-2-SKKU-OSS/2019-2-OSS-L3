@@ -1,7 +1,9 @@
+
 // This code is adopted from http://algs4.cs.princeton.edu/33balanced/SplayBST.java.html 
 #include<stdio.h> 
 #include<stdlib.h> 
   
+
 // An AVL tree node 
 struct node 
 { 

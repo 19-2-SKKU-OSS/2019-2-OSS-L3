@@ -1,9 +1,9 @@
+
 /* Includes structure for a node and a newNode() function which
    can be used to create a new node in the tree. 
    It is assumed that the data in nodes will be an integer, though
    function can be modified according to the data type, easily.
  */
-
 #include <stdio.h>
 #include <stdlib.h>
 

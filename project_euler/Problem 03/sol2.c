@@ -6,6 +6,7 @@ e.g. for 10, largest prime factor = 5. For 17, largest prime factor = 17.
 #include <stdio.h>
 
 int main() {
+	
 	int n = 0;
 	scanf("%d", &n);
 	int prime = 1;
@@ -20,4 +21,5 @@ int main() {
 	if (n > 1)
 		prime = n;
 	printf("%d\n", prime);
+	
 }

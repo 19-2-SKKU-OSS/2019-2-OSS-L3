@@ -1,7 +1,10 @@
+//boyer_moore_search
+
 #include <stdio.h>
 #include <string.h>
 
 #define NUM_OF_CHARS 256
+
 
 int max(int a, int b) {return (a>b)? a:b;}
 

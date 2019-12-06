@@ -1,7 +1,9 @@
+
 #include<stdio.h>
 #include<stdlib.h>
 #include<string.h>
 #define COUNT 5
+
 
 typedef struct node {
 	struct node *left;

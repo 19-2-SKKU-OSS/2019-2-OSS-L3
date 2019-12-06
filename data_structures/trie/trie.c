@@ -1,7 +1,9 @@
+
 /*------------------Trie Data Structure----------------------------------*/
 /*-------------Implimented for search a word in dictionary---------------*/
 
 /*-----character - 97 used for get the character from the ASCII value-----*/
+
 
 #include <stdio.h>
 #include <stdbool.h>

@@ -1,3 +1,6 @@
+//LinearSearch
+
+
 #include <stdio.h>
 
 int linearsearch(int* arr, int size, int val)
@@ -28,3 +31,4 @@ void main(){
 	else
 		printf("Value %d is not in the array.\n", v);
 }
+

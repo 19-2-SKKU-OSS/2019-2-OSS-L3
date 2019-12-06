@@ -1,4 +1,6 @@
+//MergeSort
 #include <stdio.h>
+
 
 void swap (int *a,int *b)//To swap the variables//
 {
@@ -15,6 +17,7 @@ void merge(int a[], int l, int r, int n) //To merge //
     p1 = l; p2=((l+r)/2)+1;
     while ((p1 < ((l + r) / 2) + 1) && (p2 < r + 1))
     { 
+	    
 	   if(a[p1] <= a[p2])
            {  
 		b[c++] = a[p1];

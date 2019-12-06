@@ -1,3 +1,5 @@
+//gcd
+
 #include <stdio.h>
 
 // Euclid's algorithm

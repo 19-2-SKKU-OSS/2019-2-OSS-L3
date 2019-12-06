@@ -1,6 +1,6 @@
+
 /* C program for solution of Hamiltonian Cycle problem 
    using backtracking */
-   
 #include<stdio.h> 
   
 // Number of vertices in the graph 

@@ -1,5 +1,7 @@
+
 // C program to reverse a  
 // stack using recursion 
+
 #include<stdio.h> 
 #include<stdlib.h> 
 #define bool int 

@@ -1,5 +1,8 @@
+//navie_search
+
 #include <stdio.h>
 #include <string.h>
+
 
 /* Naive Pattern Search algorithm (brute force way) */
 void naive_search(char *str, char *pattern)

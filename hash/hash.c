@@ -1,3 +1,4 @@
+//Hash
 /*
     author: Christian Bender
     This is the implementation unit of the hash-functions.
@@ -8,8 +9,8 @@
     - djb2
     - xor8 (8 bits)
     - adler_32 (32 bits)
+    
 */
-
 long long sdbm(char s[])
 {
     long long hash = 0;

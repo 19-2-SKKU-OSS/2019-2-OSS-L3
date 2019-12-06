@@ -1,6 +1,6 @@
+//SelectionSort
 //sorting of array list using selection sort
 #include <stdio.h>
-
 /*Displays the array, passed to this method*/
 void display(int* arr, int n){
     
@@ -12,6 +12,7 @@ void display(int* arr, int n){
     printf("\n");
     
 }
+
 
 
 /*This is where the sorting of the array takes place

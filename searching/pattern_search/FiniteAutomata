@@ -1,9 +1,10 @@
 // C program for Finite Automata Pattern searching 
 // Algorithm 
 
+
 #include <stdio.h> 
 #include <string.h> 
-#define NO_OF_CHARS 256 
+#define NO_OF_CHARS_256 
   
 int getNextState(char *pat, int M, int state, int x) 
 { 

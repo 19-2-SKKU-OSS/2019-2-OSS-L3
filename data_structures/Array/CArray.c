@@ -1,3 +1,4 @@
+
 /*
  * CArray.c
  *
@@ -10,7 +11,7 @@
  * Array Implementations in C
  *
  * Compiled in Visual Studio 2017
- *
+ 
  */
 
  /*
@@ -32,6 +33,7 @@
 #include "CArray.h"
 
 void swap(CArray *array, int position1, int position2);
+
 
 CArray * getCArray(int size)
 {

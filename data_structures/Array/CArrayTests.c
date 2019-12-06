@@ -1,6 +1,6 @@
+
 /*
  * CArrayTests.c
- *
  * Author: Leonardo Vencovsky
  * Created on 19/03/2018
  *
@@ -17,6 +17,7 @@
 #include <stdlib.h>
 #include <time.h>
 #include "CArray.h"
+
 
 int CArrayTests()
 {

@@ -1,4 +1,7 @@
+//interpolation_search
+
 #include<stdio.h>
+
 int interpolationSearch(int arr[], int n, int x)
 { 
     int q=NULL;
@@ -31,5 +34,6 @@ int main()
         printf("Element found at position %d", index+1);
     else
         printf("Element not found.");
+   
     return 0;
 }

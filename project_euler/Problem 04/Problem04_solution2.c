@@ -1,6 +1,8 @@
 
 // This code is for 2nd solution of Project Euler Problem 4.
 // redjo99 updated in 11.June.
+//
+
 
 #include<stdio.h>
 

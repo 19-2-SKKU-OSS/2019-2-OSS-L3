@@ -1,12 +1,13 @@
+
 /*
     author: Christian Bender
     public interface for the dictionary. 
-
     The dictionary prepares space for 1000 elements.
 */
 
 #ifndef __DICT__H
 #define __DICT__H
+
 
 #define MAXELEMENTS 1000
 

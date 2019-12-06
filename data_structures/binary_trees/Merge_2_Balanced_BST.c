@@ -1,3 +1,4 @@
+
 // C program to Merge Two Balanced Binary Search Trees 
 #include <stdio.h> 
 #include <stdlib.h> 
@@ -10,6 +11,7 @@ struct node
     struct node* left; 
     struct node* right; 
 }; 
+
   
 // A utility unction to merge two sorted arrays into one 
 int *merge(int arr1[], int arr2[], int m, int n); 

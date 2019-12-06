@@ -3,7 +3,7 @@
 
 float f(float x) 
 {
-	return 1.0+x*x*x; //This is the expresion of the function to integrate?
+	return 1.0+x*x*x; 
 }
 
 void main()

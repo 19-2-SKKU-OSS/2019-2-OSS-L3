@@ -1,10 +1,10 @@
+
 /*
     author: Christian Bender
 
     This header represents the public stack-interface.
     The stack is generic and self growing. 
 */
-
 
 #ifndef __STACK__
 #define __STACK__

@@ -1,3 +1,4 @@
+//Quick_Sort
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -13,6 +14,7 @@ void display(int arr[], int n)
 
     printf("\n");
 }
+
 
 /*Swap function to swap two values*/
 void swap(int *first, int *second)
@@ -91,7 +93,7 @@ int main()
     }
 
     printf("Original array: ");
-    display(arr, n); // Original array : 10 11 9 8 4 7 3 8
+    display(arr, n); 
 
     quickSort(arr, 0, n - 1);
 
