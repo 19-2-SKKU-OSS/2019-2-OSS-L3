@@ -253,6 +253,7 @@ You can see the contribution of members to the project. you can also check the s
 	- swap_bits.c
 	- add_two_numbers.c
 	- smallest_of_three.c
+	- boolean_array_puzzle.c
 
 First execute server.c in a terminal and then client.c in a different terminal. Enables communication between two terminals.
  
