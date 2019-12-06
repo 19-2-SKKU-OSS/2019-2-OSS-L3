@@ -21,6 +21,7 @@ int swapBits(unsigned int x, unsigned int p1, unsigned int p2, unsigned int n)
     return result; 
 } 
   
+
 /* Driver program to test above function*/
 int main() 
 { 
