@@ -1,4 +1,5 @@
 /* Function to reverse bits of num */
+
 unsigned int reverseBits(unsigned int num) 
 { 
     unsigned int  NO_OF_BITS = sizeof(num) * 8; 
