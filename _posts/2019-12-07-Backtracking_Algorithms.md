@@ -9,7 +9,7 @@ Our Team Search and Create some Algorithm about Backtracking. (Reference Site : 
 
 ## Team member participate in Backtracking Algorithms
 **채상은 Chae Sangeun `andrewchea` (Team Leader)** 
-- Role : Overall project management, writing the code of Bactracking and Trie Algorithm and code review of L3 Team
+- Role : Overall project management, writing the code of Bactracking and Dynamic Programming Algorithm of L3 Team
 
 **김연재 Kim YeonJae `yeonjaekim99`**
 - Role : Code editing of Backtracking and Trie Algorithm 
