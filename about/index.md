@@ -1,37 +1,45 @@
 ---
 layout: page
-title: About the Theme
+title: About Our Team L3
 tags: [about, Jekyll, theme, moon]
 date: 2016-03-21
 comments: false
 ---
     
 <center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
+## C Project
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+Our project is copied from TheAlgorithms/C, open source project for C algorithms in github.  
+We are going to add some sorting algorithms(e.g. Radix sorting) and data structure algorithms.  
+Also, we will find problems in existing codes and edit them.   
+Our final goal is to give pull requests to TheAlgorithms/C and take some comments to them.   
+We expect our project very energetic!  
+ 
 
-## Preview
+## Team members of L3
 
-{% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
+**채상은 Chae Sangeun `andrewchea` (Team Leader)** 
+- student ID : 2018314760
+- E-mail : andrewchea@naver.com
+- Role : Overall project management, writing the code of Bactracking and Trie Algorithm and code review of L3 Team
 
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
+**김연재 Kim YeonJae `yeonjaekim99`**
+- student ID : 2019311895
+- E-mail : semote2@naver.com
+- Role : Code editing of Backtracking and Trie Algorithm 
 
-## Getting Started
+**박성민 Park Sungmin `MelonSungMin`**
+- student ID : 2018312186
+- E-mail : jumis77@naver.com
+- Role : Code editing of the other Searching and Sorting Algorithm
 
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-      
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+**김지희 Kim Jihee `mii2026`**
+- student ID : 2018311464
+- E-mail : mii2026@naver.com
+- Role : Code editing of Data Bit algorithm & Add new algorithm for sorting
+
+**진우현  Chin Woohyun `CHINWH`**
+- student ID : 2012311228
+- E-mail : bootlab@naver.com
+- Role : Code editing of Bit algorithm @ Add new alogoritm for sorting
+
