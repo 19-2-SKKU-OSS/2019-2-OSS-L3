@@ -42,22 +42,21 @@ Code review of our project is carried out every three days.
 ### Commits
 You can check what we do in this project by seeing commits.
 From May 7 to June 11, we made 444 commits.
-- [checking commits](https://github.com/19-2-SKKU-OSS/2019-2-OSS-L3/commits/master)
+- [Commits](https://github.com/19-2-SKKU-OSS/2019-2-OSS-L3/commits/master)
 
 <img src="https://user-images.githubusercontent.com/49433615/59218686-c7ffe800-8bfb-11e9-9cc9-d4e7706c3fa2.JPG" width="400">
 
 ### Issues
 In this issue, you can check what we have raised and shared information in this project.
 We opened 16 issues, and 13 of them were closed.
-- [checking issues](https://github.com/19-2-SKKU-OSS/2019-2-OSS-L3/issues)
+- [Issues](https://github.com/19-2-SKKU-OSS/2019-2-OSS-L3/issues)
 
-<img src="https://user-images.githubusercontent.com/49433615/59218712-d8b05e00-8bfb-11e9-9c58-608dd45d31ac.JPG" width="400">
-<img src="https://user-images.githubusercontent.com/49433615/59218713-d948f480-8bfb-11e9-9d00-f95110170c7a.JPG" width="400">
+![KakaoTalk_20191207_194637671](https://user-images.githubusercontent.com/56298796/70373225-acfffd80-192a-11ea-8838-a69cfdcab292.png)
 
 ### Pull requests
 After modifying the members' code, Merge can be checked through the consent and rejection process.
 We opened 154 pull requests, and all of them were closed now.
-- [checking pull requests](https://github.com/19-2-SKKU-OSS/2019-2-OSS-L3/pulls?q=is%3Apr+is%3Aclosed)
+- [Pull requests](https://github.com/19-2-SKKU-OSS/2019-2-OSS-L3/pulls?q=is%3Apr+is%3Aclosed)
 
 <img src="https://user-images.githubusercontent.com/42231056/59091570-96142a80-894a-11e9-9b27-85c000ccbb65.png" width="400">
 <img src="https://user-images.githubusercontent.com/42231056/59092217-f6f03280-894b-11e9-84b7-879da3a20a85.png" width="400">  
