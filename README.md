@@ -275,4 +275,7 @@ First execute server.c in a terminal and then client.c in a different terminal. 
 	- reverese_bits_of_a_number.c
 	- swap_all_odd_and_even_bits.c
 	- swap_two_nibbles_in_a_byte.c
+	- count_total_set_bits.c
+	- add_1.c
+	- multiply_with_3.5.c
 
