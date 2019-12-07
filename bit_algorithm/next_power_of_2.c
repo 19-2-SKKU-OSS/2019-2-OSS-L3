@@ -1,4 +1,3 @@
-
 #include<stdio.h> 
   
 unsigned int nextPowerOf2(unsigned int n) 
