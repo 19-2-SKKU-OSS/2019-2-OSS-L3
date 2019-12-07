@@ -73,8 +73,8 @@ You can check the flow of tasks in progress, completed tasks, and tasks in the p
 - [Overview of this Project](https://github.com/19-2-SKKU-OSS/2019-2-OSS-L3/projects)
 
 
-<img src="https://user-images.githubusercontent.com/49433615/59218715-d948f480-8bfb-11e9-9e99-8e386a3b31de.JPG" width="400">
-<img src="https://user-images.githubusercontent.com/49433615/59218714-d948f480-8bfb-11e9-84cc-bd29a0013071.JPG" width="400">
+![Project](https://user-images.githubusercontent.com/50195267/70375894-b8f9b880-1946-11ea-8288-59e8a876c989.png)
+
 
 ### Wiki
 You can find informations about the members who are working on this project, what contribution they have made, and how the project is progressing over time.
