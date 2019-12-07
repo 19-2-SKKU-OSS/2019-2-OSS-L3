@@ -4,12 +4,10 @@
 Backtracking Algorithm Basically, backtracking has the basic idea of 'exploring all the possible ways'. 
 Backtracking is a full search technique that does not take into account routes that are not going through pruning to DFS.
 
-## What did our team do?
+## What our team do?
 Our Team Search and Create some Algorithm about Backtracking. (Reference Site : www.geeksforgeeks.org)
-The Picture that are posted under the page are the output of work that our team did.
 
 ## Team member participate in Backtracking Algorithms
-
 **채상은 Chae Sangeun `andrewchea` (Team Leader)** 
 - Role : Overall project management, writing the code of Bactracking and Trie Algorithm and code review of L3 Team
 
