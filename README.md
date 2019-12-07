@@ -13,12 +13,12 @@ We expect our project very energetic!
 **채상은 Chae Sangeun `andrewchea` (Team Leader)** 
 - student ID : 2018314760
 - E-mail : andrewchea@naver.com
-- Role : Overall project management, writing the code of Bactracking and Trie Algorithm and code review of L3 Team
+- Role : Overall project management, writing the code of Bactracking and Dynamic Programming Algorithm and code review of L3 Team
 
 **김연재 Kim YeonJae `yeonjaekim99`**
 - student ID : 2019311895
 - E-mail : semote2@naver.com
-- Role : Code editing of Backtracking and Trie Algorithm 
+- Role : Code editing of Backtracking and Dynamic Programming Algorithm 
 
 **박성민 Park Sungmin `MelonSungMin`**
 - student ID : 2018312186
@@ -33,7 +33,7 @@ We expect our project very energetic!
 **진우현  Chin Woohyun `CHINWH`**
 - student ID : 2012311228
 - E-mail : bootlab@naver.com
-- Role : Code editing of Bit algorithm @ Add new alogoritm for sorting
+- Role : Code editing of Bit algorithm & Add new alogoritm for sorting
 
 
 Code review of our project is carried out every three days.  
@@ -58,7 +58,8 @@ In this issue, you can check what we have raised and shared information in this 
 We opened 16 issues, and 13 of them were closed.
 - [Issues](https://github.com/19-2-SKKU-OSS/2019-2-OSS-L3/issues)
 
-![KakaoTalk_20191207_194637671](https://user-images.githubusercontent.com/56298796/70373225-acfffd80-192a-11ea-8838-a69cfdcab292.png)
+![KakaoTalk_20191207_194637671](https://user-images.githubusercontent.com/56298796/70376018-fa3e9800-1947-11ea-88f2-34f12e8b8445.png)
+
 
 ### Pull requests
 After modifying the members' code, Merge can be checked through the consent and rejection process.
@@ -78,8 +79,8 @@ You can check the flow of tasks in progress, completed tasks, and tasks in the p
 
 ### Wiki
 You can find informations about the members who are working on this project, what contribution they have made, and how the project is progressing over time.
-* [Home](https://github.com/19-2-SKKU-OSS/2019-2-OSS-L3/wiki)
-	* [Individual activities by period](https://github.com/19-1-skku-oss/2019-1-OSS-E2/wiki/Individual-activities-by-period)
+* [2019-2-OSS-L3](https://github.com/19-2-SKKU-OSS/2019-2-OSS-L3/wiki)
+
 	
 ![Wiki](https://user-images.githubusercontent.com/50195267/70375872-72a45980-1946-11ea-9645-bcb5043fe82c.png)
 
