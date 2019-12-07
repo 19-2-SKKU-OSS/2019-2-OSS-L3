@@ -41,7 +41,7 @@ We expect our project very energetic!
 **진우현  Chin Woohyun `CHINWH`**
 - student ID : 2012311228
 - E-mail : bootlab@naver.com
-- Role : Code editing of Bit algorithm @ Add new alogoritm for sorting
+- Role : Code editing of Bit algorithm & Add new alogoritm for sorting
 
 
 ## Algorithm that Our Team ADD && REVISE
@@ -257,7 +257,7 @@ First execute server.c in a terminal and then client.c in a different terminal. 
 	- Matirx_Chain_Multipulication.c	
 	- Maximum_Sum_Increasing_Subsequence.c	
 	- Maximum_Sum_rectangle_in_a_2D_matrix.c	
-	- Min_Cost_Path.c	[Add] Min Cost Path	
+	- Min_Cost_Path.c		
 	- Optimal_Binary_Search_Tree.cc	
 	- Overlapping_Subproblems_Property.c	
 	- Palindrome_Partitioning.c	
