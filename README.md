@@ -83,7 +83,7 @@ You can find informations about the members who are working on this project, wha
 
 	
 ![Wiki](https://user-images.githubusercontent.com/50195267/70375872-72a45980-1946-11ea-9645-bcb5043fe82c.png)
-![캡처](https://user-images.githubusercontent.com/56298796/70376073-70db9580-1948-11ea-99c4-7369899d6b2e.PNG)
+![캡처](https://user-images.githubusercontent.com/56298796/70376089-9bc5e980-1948-11ea-9998-87e99c8f1ad3.PNG)
 
 
 _The details of the progress of each time period are uploaded to Wiki 'Individual activities by period' so we would appreciate your reference._
