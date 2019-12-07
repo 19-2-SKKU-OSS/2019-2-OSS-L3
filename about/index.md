@@ -14,8 +14,7 @@ We are going to add some sorting algorithms(e.g. Radix sorting) and data structu
 Also, we will find problems in existing codes and edit them.   
 Our final goal is to give pull requests to TheAlgorithms/C and take some comments to them.   
 We expect our project very energetic!  
- 
-![Algorithms](https://avatars2.githubusercontent.com/u/20487725?s=200&v=4)
+
 
 ## Team members of L3
 
