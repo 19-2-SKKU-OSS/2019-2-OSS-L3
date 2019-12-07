@@ -1,4 +1,3 @@
-
 // C program for Position 
 // of rightmost set bit 
 #include <math.h> 
