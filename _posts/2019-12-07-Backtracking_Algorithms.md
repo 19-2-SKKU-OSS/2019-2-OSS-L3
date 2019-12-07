@@ -12,7 +12,7 @@ Our Team Search and Create some Algorithm about Backtracking. (Reference Site : 
 - Role : Overall project management, writing the code of Bactracking and Dynamic Programming Algorithm of L3 Team
 
 **김연재 Kim YeonJae `yeonjaekim99`**
-- Role : Code editing of Backtracking and Trie Algorithm 
+- Role : Code editing of Backtracking and Dynamic Programming Algorithm 
 
 ## Output
 ![BackTracking](https://user-images.githubusercontent.com/50195267/70375382-8fd62980-1940-11ea-8751-37c96dbdebd8.png)
