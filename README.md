@@ -6,6 +6,7 @@ Also, we will find problems in existing codes and edit them.
 Our final goal is to give pull requests to TheAlgorithms/C and take some comments to them.   
 We expect our project very energetic!  
 
+![C language](https://user-images.githubusercontent.com/56298796/70375254-f8240b80-193e-11ea-9620-bebcb5a9c4f8.png)
 
 # Team members of L3
 
