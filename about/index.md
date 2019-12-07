@@ -6,7 +6,7 @@ date: 2016-03-21
 comments: false
 ---
     
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
+
 ## C Project
 
 Our project is copied from TheAlgorithms/C, open source project for C algorithms in github.  
