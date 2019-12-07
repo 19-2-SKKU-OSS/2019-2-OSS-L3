@@ -7,7 +7,7 @@ It is used to solve partial problem iterations and algorithms with optimal subst
 ## What our team do?
 Our team Search and Create Dynamic Programming Algorithm and Commit Algorithm in Github (Reference Site : www.geeksforgeeks.org)
 
-# Team member who Participate in Dynamic Programming
+## Team member who Participate in Dynamic Programming
 
 **채상은 Chae Sangeun `andrewchea` (Team Leader)** 
 - Role : Overall project management, writing the code of Bactracking and Dynamic Programming Algorithm of L3 Team
