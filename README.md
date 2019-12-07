@@ -50,7 +50,8 @@ You can check what we do in this project by seeing commits.
 From May 7 to June 11, we made 444 commits.
 - [Commits](https://github.com/19-2-SKKU-OSS/2019-2-OSS-L3/commits/master)
 
-<img src="https://user-images.githubusercontent.com/49433615/59218686-c7ffe800-8bfb-11e9-9cc9-d4e7706c3fa2.JPG" width="400">
+![Commit](https://user-images.githubusercontent.com/50195267/70375878-8485fc80-1946-11ea-915f-940036f385c6.png)
+
 
 ### Issues
 In this issue, you can check what we have raised and shared information in this project.
@@ -64,9 +65,8 @@ After modifying the members' code, Merge can be checked through the consent and 
 We opened 154 pull requests, and all of them were closed now.
 - [Pull requests](https://github.com/19-2-SKKU-OSS/2019-2-OSS-L3/pulls?q=is%3Apr+is%3Aclosed)
 
-<img src="https://user-images.githubusercontent.com/42231056/59091570-96142a80-894a-11e9-9b27-85c000ccbb65.png" width="400">
-<img src="https://user-images.githubusercontent.com/42231056/59092217-f6f03280-894b-11e9-84b7-879da3a20a85.png" width="400">  
-**The example of Pull request 'bulls and cows'**
+![Pull Request](https://user-images.githubusercontent.com/50195267/70375860-3ec93400-1946-11ea-8921-7bc9e34f09fe.png)
+**The example of Recent Pull request List**
 
 ### Projects
 You can check the flow of tasks in progress, completed tasks, and tasks in the process of modification in this project.
@@ -80,11 +80,9 @@ You can check the flow of tasks in progress, completed tasks, and tasks in the p
 You can find informations about the members who are working on this project, what contribution they have made, and how the project is progressing over time.
 * [Home](https://github.com/19-2-SKKU-OSS/2019-2-OSS-L3/wiki)
 	* [Individual activities by period](https://github.com/19-1-skku-oss/2019-1-OSS-E2/wiki/Individual-activities-by-period)
-	* [member's information](https://github.com/19-1-skku-oss/2019-1-OSS-E2/wiki/member's-information)
-	* [Individual parts of contributing to a project](https://github.com/19-1-skku-oss/2019-1-OSS-E2/wiki/Individual-parts-of-contributing-to-a-project)
 	
-<img src="https://user-images.githubusercontent.com/49433615/59218716-d9e18b00-8bfb-11e9-9398-65c152b34041.JPG" width="400">
-<img src="https://user-images.githubusercontent.com/49433615/59218717-d9e18b00-8bfb-11e9-8fe8-c5c7fa809699.JPG" width="400">
+![Wiki](https://user-images.githubusercontent.com/50195267/70375872-72a45980-1946-11ea-9645-bcb5043fe82c.png)
+
 
 _The details of the progress of each time period are uploaded to Wiki 'Individual activities by period' so we would appreciate your reference._
 
@@ -253,7 +251,7 @@ You can see the contribution of members to the project. you can also check the s
 First execute server.c in a terminal and then client.c in a different terminal. Enables communication between two terminals.
  
 	
-## bit_algorithm
+## Bit_algorithm
 	- find_sigle_number.c
 	- detect_opposite_signs.c
 	- swap_bits.c
@@ -280,4 +278,40 @@ First execute server.c in a terminal and then client.c in a different terminal. 
 	- reverese_bits_of_a_number.c
 	- swap_all_odd_and_even_bits.c
 	- swap_two_nibbles_in_a_byte.c
+	
+	
+## Backtracking
+	- Boolean_array_puzzle.c
+	- Kight_Tour.c
+	- N_Queen_Problem.c	
+	- Print_permutation.c	
+	- Rat_maze.c	
+	- m_coloring.c	
+	- subset_sum.c	
+	- subset_sum_2.c	
+	- sudoku.c
+
+## Dynamic_Programming
+	- Binomal_Coeffiecient.c	
+	- Count_number_of_ways_to_reach_a_given_score_in_a_game.c
+	- Egg_Dropping_Puzzle.c	
+	- Floyd_Warshall_Argorithm.c	
+	- Knapsack_Problem.c	
+	- Largest_Independent_Set_Problem.c	
+	- Longest_Common_Subsequence.c	
+	- Longest_Even_Length_Substring.c	
+	- Longest_Increasing_Subsequence.c	
+	- Longest_Palindromic_Subsequence.c	
+	- Matirx_Chain_Multipulication.c	
+	- Maximum_Sum_Increasing_Subsequence.c	
+	- Maximum_Sum_rectangle_in_a_2D_matrix.c	
+	- Min_Cost_Path.c	[Add] Min Cost Path	
+	- Optimal_Binary_Search_Tree.cc	
+	- Overlapping_Subproblems_Property.c	
+	- Palindrome_Partitioning.c	
+	- Partition_Problem	
+	- Partition_Problem.c	
+	- Ugly_Numbers.c	
+	- Vertex_Cover_Problem.c
+
 
