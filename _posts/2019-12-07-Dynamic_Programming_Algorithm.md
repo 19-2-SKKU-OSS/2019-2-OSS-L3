@@ -5,9 +5,10 @@ In mathematics, computer science, and economics, dynamic programming is a way of
 It is used to solve partial problem iterations and algorithms with optimal substructures in less time than conventional methods. 
 
 ## What our team do?
-Our team Search and Create Dynamic Programming Algorithm and Commit Algorithm in Github (Reference Site : Github)
+Our team Search and Create Dynamic Programming Algorithm and Commit Algorithm in Github (Reference Site : www.geeksforgeeks.org)
 
 # Team member who Participate in Dynamic Programming
+
 **채상은 Chae Sangeun `andrewchea` (Team Leader)** 
 - Role : Overall project management, writing the code of Bactracking and Dynamic Programming Algorithm of L3 Team
 
