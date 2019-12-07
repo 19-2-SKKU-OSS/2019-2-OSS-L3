@@ -1,3 +1,5 @@
+#include<stdio.h>
+
 /* Function to reverse bits of num */
 
 unsigned int reverseBits(unsigned int num) 
