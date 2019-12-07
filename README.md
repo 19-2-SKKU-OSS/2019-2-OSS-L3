@@ -37,6 +37,10 @@ We expect our project very energetic!
 
 Code review of our project is carried out every three days.  
 
+# Our Static Page
+This is our static page
+- [C Algorithm Project](https://https://19-2-skku-oss.github.io/2019-2-OSS-L3/)
+![static page](https://user-images.githubusercontent.com/56298796/70373394-81c9de00-192b-11ea-8055-119914ff9bff.PNG)
 
 # Overview what we do
 ### Commits
