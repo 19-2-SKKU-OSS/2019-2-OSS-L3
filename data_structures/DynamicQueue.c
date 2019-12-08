@@ -1,6 +1,7 @@
 
 #include <stdio.h>
 
+
 typedef enum { false, true } bool;
 typedef int Data; 
 typedef struct _Node {
