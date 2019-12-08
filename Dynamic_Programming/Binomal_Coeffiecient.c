@@ -19,3 +19,4 @@ int main()
 	printf("Value of C(%d, %d) is %d ", n, k, binomialCoeff(n, k)); 
 	return 0; 
 } 
+
