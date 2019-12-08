@@ -1,6 +1,7 @@
 // C program to swap even and  
 // odd bits of a given number 
 
+
 #include <stdio.h> 
   
 // Function to swap even 
