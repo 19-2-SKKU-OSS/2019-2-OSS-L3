@@ -1,10 +1,7 @@
-//C/C++
-// C++ Program to Check if binary representation 
+// C Program to Check if binary representation 
 // of a number is palindrome 
-#include<iostream> 
-using namespace std; 
+#include<stdio.h>  
 
-  
 // This function returns true if k'th bit in x  
 // is set (or 1). For example if x (0010) is 2  
 // and k is 2, then it returns true 
@@ -34,9 +31,9 @@ bool isPalindrome(unsigned int x)
 // Driver Code 
 int main() 
 { 
-    unsigned int x = 1 << 15 + 1 << 16; 
-    cout << isPalindrome(x) << endl; 
+    unsigned int x = 1 << 15 + 1 << 16;
+    printf("%u\n", isPalindrome(x));
     x = 1 << 31 + 1; 
-    cout << isPalindrome(x) << endl; 
+    printf("%u\n", isPalndrome(x));
     return 0; 
 } 

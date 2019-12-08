@@ -7,3 +7,6 @@ BIT ALGORITHM
 - smallest of three
 - boolean array puzzle
 - next higher number
+- count_total_set_bits.c
+- add_1.c
+- multiply_with_7.c
