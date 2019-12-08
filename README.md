@@ -58,7 +58,7 @@ In this issue, you can check what we have raised and shared information in this 
 We opened 7issues, and 5 of them were closed.
 - [Issues](https://github.com/19-2-SKKU-OSS/2019-2-OSS-L3/issues)
 
-![insight](https://user-images.githubusercontent.com/56298796/70389601-09cfe680-1a05-11ea-9c30-57c89602f65f.png)
+![KakaoTalk_20191207_194637671](https://user-images.githubusercontent.com/56298796/70376018-fa3e9800-1947-11ea-88f2-34f12e8b8445.png)
 
 
 ### Pull requests
@@ -92,7 +92,7 @@ _The details of the progress of each time period are uploaded to Wiki 'Individua
 You can see the contribution of members to the project. you can also check the statistical figures associated with this project.
 - [checking Insights](https://github.com/19-2-SKKU-OSS/2019-2-OSS-L3/pulse)
 
-![Insight](https://user-images.githubusercontent.com/50195267/70389546-2b7c9e00-1a04-11ea-87ee-d2d3238aa0ec.png)
+![insight](https://user-images.githubusercontent.com/56298796/70389601-09cfe680-1a05-11ea-9c30-57c89602f65f.png)
 
 ## Computer Oriented Statistical Methods
 	- Gauss_Elimination
