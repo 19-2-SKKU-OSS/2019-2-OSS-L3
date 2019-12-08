@@ -1,12 +1,12 @@
 BIT ALGORITHM
 ==========================
-- detect opposite signs
-- find single number
-- swap bits
-- add two number
-- smallest of three
-- boolean array puzzle
-- next higher number
+- detect_opposite_signs.c
+- find_single_number.c
+- swap_bits.c
+- add_two_number.c
+- smallest_of_three.c
+- boolean_array_puzzle.c
+- next_higher_number.c
 - count_total_set_bits.c
 - add_1.c
 - multiply_with_7.c
