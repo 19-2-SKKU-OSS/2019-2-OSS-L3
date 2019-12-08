@@ -21,3 +21,4 @@ int main()
     printf("Minimum of 3 numbers is %d", smallest(x, y, z)); 
     return 0; 
 }
+
