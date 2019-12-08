@@ -1,6 +1,4 @@
 //Jump_Search
-
-
 #include <stdio.h>
 #include <math.h>
 #define min(X,Y) ((X) < (Y) ? (X) : (Y))  
