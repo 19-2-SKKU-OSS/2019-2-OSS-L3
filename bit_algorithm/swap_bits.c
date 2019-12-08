@@ -30,3 +30,4 @@ int main()
     printf("\nResult = %d ", res); 
     return 0; 
 }
+
