@@ -58,7 +58,7 @@ In this issue, you can check what we have raised and shared information in this 
 We opened 7issues, and 5 of them were closed.
 - [Issues](https://github.com/19-2-SKKU-OSS/2019-2-OSS-L3/issues)
 
-![KakaoTalk_20191207_194637671](https://user-images.githubusercontent.com/56298796/70376018-fa3e9800-1947-11ea-88f2-34f12e8b8445.png)
+![insight](https://user-images.githubusercontent.com/56298796/70389601-09cfe680-1a05-11ea-9c30-57c89602f65f.png)
 
 
 ### Pull requests
