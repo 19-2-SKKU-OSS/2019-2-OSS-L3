@@ -24,3 +24,4 @@ int main()
     cout << turnOffK(n, k); 
     return 0; 
 }
+
