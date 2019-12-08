@@ -21,3 +21,4 @@ int main()
     printf("%d", turnOFFK(n,k));
     return 0; 
 }
+
