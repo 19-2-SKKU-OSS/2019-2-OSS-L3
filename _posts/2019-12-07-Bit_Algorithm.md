@@ -1,5 +1,16 @@
-# Bit Algorithms
-
+---
+layout: post
+title:  "Bit_Algorithm"
+date:   2019-12-07
+excerpt: "Let's look at the operations that represent permutations as bitmasks and insert, search, toggle, and remove them using bitmasks."
+tag:
+- markdown 
+- syntax
+- sample
+- test
+- jekyll
+comments: true
+---
 ## What is Bit Algorithm?
 Let's look at the operations that represent permutations as bitmasks and insert, search, toggle, and remove them using bitmasks. 
 Bitmask is a technique that uses a binary representation of an integer as a data structure. 
