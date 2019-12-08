@@ -26,3 +26,4 @@ unsigned int n = 0;
 printf("%d", nextPowerOf2(n)); 
 return 0; 
 } 
+
