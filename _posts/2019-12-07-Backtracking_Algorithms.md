@@ -1,4 +1,17 @@
-# Backtracking_Algorithm
+
+---
+layout: post
+title:  "Backtracking_Algorithms"
+date:   2019-12-07
+excerpt: "Backtracking Algorithm Basically, backtracking has the basic idea of 'exploring all the possible ways'."
+tag:
+- markdown 
+- syntax
+- sample
+- test
+- jekyll
+comments: true
+---
 
 ## What is Backtracking Algorithm?
 Backtracking Algorithm Basically, backtracking has the basic idea of 'exploring all the possible ways'. 
