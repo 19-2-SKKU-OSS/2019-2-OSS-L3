@@ -9,6 +9,7 @@ In this directory you will find (in the right order):
 * BogoSort  (OSSE2 added)
 * BubbleSort
 * BucketSort
+* CocktailSort  (OSSL3 added)
 * HeapSort
 * InsertionSort
 * MergeSortforLinkedLists  (OSSE2 added)
