@@ -10,6 +10,7 @@
 #include <stdlib.h>
 #include <assert.h>
 
+
 #define NARRAY 8  /* array size */
 #define NBUCKET 5 /* bucket size */
 #define INTERVAL 10 /* bucket range */
