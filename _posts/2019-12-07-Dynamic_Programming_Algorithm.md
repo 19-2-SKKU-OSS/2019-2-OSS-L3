@@ -1,4 +1,16 @@
-# Dynamic_Programming Algorithms
+---
+layout: post
+title:  "Dynamic_Programming_Algorithm"
+date:   2019-12-07
+excerpt: "In mathematics, computer science, and economics, dynamic programming is a way of solving complex problems into simple problems."
+tag:
+- markdown 
+- syntax
+- sample
+- test
+- jekyll
+comments: true
+---
 
 ## What is Dynamic Programming?
 In mathematics, computer science, and economics, dynamic programming is a way of solving complex problems into simple problems. 
