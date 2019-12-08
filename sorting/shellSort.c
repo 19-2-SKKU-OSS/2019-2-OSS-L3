@@ -4,6 +4,7 @@
 #include <time.h>
 
 
+
 #define ELEMENT_NR 20
 #define ARRAY_LEN(x) (sizeof(x) / sizeof((x)[0]))
 const char *notation = "Shell Sort Big O Notation:\
