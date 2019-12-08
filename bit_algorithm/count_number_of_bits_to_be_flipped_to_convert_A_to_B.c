@@ -32,3 +32,4 @@ int main()
     printf("%d\n", FlippedCount(a,b));
     return 0; 
 } 
+
