@@ -1,6 +1,4 @@
 //LinearSearch
-
-
 #include <stdio.h>
 
 int linearsearch(int* arr, int size, int val)
