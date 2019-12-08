@@ -10,6 +10,7 @@ bool isKthBitSet(unsigned int x, unsigned int k)
     return (x & (1 << (k - 1))) ? true : false; 
 } 
   
+
 // This function returns true if binary  
 // representation of x is palindrome. 
 // For example (1000...001) is paldindrome 
