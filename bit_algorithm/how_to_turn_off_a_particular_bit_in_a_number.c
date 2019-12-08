@@ -1,8 +1,5 @@
-//C++
-
-
-#include <iostream> 
-using namespace std; 
+//C
+#include <stdio.h>  
   
 // Returns a number that has all bits same as n 
 // except the k'th bit which is made 0 
@@ -21,6 +18,6 @@ int main()
 { 
     int n = 15; 
     int k = 4; 
-    cout << turnOffK(n, k); 
+    printf("%d", turnOFFK(n,k));
     return 0; 
 }

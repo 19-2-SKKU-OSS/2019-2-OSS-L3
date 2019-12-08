@@ -1,8 +1,6 @@
-//C++
-// C++ program to check if a number 
+//C program to check if a number 
 // is multiple of 9 using bitwise operators 
-#include <bits/stdc++.h> 
-using namespace std; 
+#include <stdio.h>  
   
 // Bitwise operator based function to check divisibility by 9 
 bool isDivBy9(int n) 
@@ -24,6 +22,6 @@ int main()
     // using above method 
     for (int i = 0; i < 100; i++) 
         if (isDivBy9(i)) 
-            cout << i << " "; 
+            printf("%d ", i); 
     return 0; 
 }

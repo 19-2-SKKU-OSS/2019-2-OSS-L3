@@ -1,5 +1,5 @@
 /* Dynamic Programming C implementation of LCS problem */
-#include<bits/stdc++.h> 
+#include<stdio.h> 
 
 int max(int a, int b); 
 
