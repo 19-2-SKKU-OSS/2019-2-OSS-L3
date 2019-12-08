@@ -24,3 +24,4 @@ printf("Number of ways = %d", countWays(s));
 getchar(); 
 return 0; 
 }
+
