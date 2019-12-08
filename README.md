@@ -47,7 +47,7 @@ This is our static page
 # Overview what we do
 ### Commits
 You can check what we do in this project by seeing commits.
-From May 7 to June 11, we made 444 commits.
+From Nov 19 to Dec 12, we made 614 commits.
 - [Commits](https://github.com/19-2-SKKU-OSS/2019-2-OSS-L3/commits/master)
 
 ![Commit](https://user-images.githubusercontent.com/50195267/70375878-8485fc80-1946-11ea-915f-940036f385c6.png)
@@ -55,7 +55,7 @@ From May 7 to June 11, we made 444 commits.
 
 ### Issues
 In this issue, you can check what we have raised and shared information in this project.
-We opened 16 issues, and 13 of them were closed.
+We opened 7issues, and 5 of them were closed.
 - [Issues](https://github.com/19-2-SKKU-OSS/2019-2-OSS-L3/issues)
 
 ![KakaoTalk_20191207_194637671](https://user-images.githubusercontent.com/56298796/70376018-fa3e9800-1947-11ea-88f2-34f12e8b8445.png)
@@ -63,7 +63,7 @@ We opened 16 issues, and 13 of them were closed.
 
 ### Pull requests
 After modifying the members' code, Merge can be checked through the consent and rejection process.
-We opened 154 pull requests, and all of them were closed now.
+We opened 111 pull requests, and all of them were closed now.
 - [Pull requests](https://github.com/19-2-SKKU-OSS/2019-2-OSS-L3/pulls?q=is%3Apr+is%3Aclosed)
 
 ![Pull Request](https://user-images.githubusercontent.com/50195267/70375860-3ec93400-1946-11ea-8921-7bc9e34f09fe.png)
@@ -92,8 +92,7 @@ _The details of the progress of each time period are uploaded to Wiki 'Individua
 You can see the contribution of members to the project. you can also check the statistical figures associated with this project.
 - [checking Insights](https://github.com/19-2-SKKU-OSS/2019-2-OSS-L3/pulse)
 
-<img src="https://user-images.githubusercontent.com/49433615/59218722-dd751200-8bfb-11e9-8332-bc3f0fd57c8b.JPG" width="400">
-<img src="https://user-images.githubusercontent.com/49433615/59218711-d8b05e00-8bfb-11e9-8b95-16b9cf24cbd4.JPG" width="400">
+![Insight](https://user-images.githubusercontent.com/50195267/70389546-2b7c9e00-1a04-11ea-87ee-d2d3238aa0ec.png)
 
 ## Computer Oriented Statistical Methods
 	- Gauss_Elimination
