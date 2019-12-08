@@ -17,3 +17,4 @@ int main(void)
     printf("\n"); 
     bin(4); 
 } 
+
