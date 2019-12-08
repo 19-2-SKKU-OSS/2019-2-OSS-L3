@@ -1,9 +1,5 @@
-//C++
-//C++
-
-// CPP program to check if n is a multiple of 3 
-#include <bits/stdc++.h> 
-using namespace std; 
+// C program to check if n is a multiple of 3 
+#include <stdio.h> 
   
 /* Function to check if n is a multiple of 3*/
 int isMultipleOf3(int n) 

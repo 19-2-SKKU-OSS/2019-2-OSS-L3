@@ -1,15 +1,15 @@
 // A C++ dynamic programming 
 // solution for longest palindrome 
 
-#include <bits/stdc++.h> 
-using namespace std; 
-
+#include <stdio.h>
+#include<stdbool.h>
+#include<string.h>
 
 // Function to print a substring str[low..high] 
 void printSubStr( string str, int low, int high ) 
 { 
 	for( int i = low; i <= high; ++i ) 
-		cout << str[i]; 
+		printf("%c", str[i]); 
 } 
 
 // This function prints the longest palindrome substring 
@@ -70,9 +70,7 @@ int longestPalSubstr(string str)
 			} 
 		} 
 	} 
-
-cout << "Longest palindrome substring is: "; 
-printSubStr( str, start, start + maxLength - 1 ); 
+	printf("Longest palindrome substring is: %s %d %d", str, start, start+maxLength-1); 
 	
 	// return length of LPS 
 	return maxLength; 
@@ -82,6 +80,6 @@ printSubStr( str, start, start + maxLength - 1 );
 int main() 
 { 
 	string str = "forgeeksskeegfor"; 
-	cout << "\nLength is: " << longestPalSubstr( str ); 
+	printf("\nLength is: %s", longestPalSubstr( str)); 
 	return 0; 
 } 
