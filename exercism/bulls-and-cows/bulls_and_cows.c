@@ -10,16 +10,16 @@
 #define MAX 4
 
 int PlayBullsAndCows(int arr[], int size) {
-	int* guess = malloc(sizeof(int)*size);
+	int* guess = malloc(sizeof(int)*size);//make size of variable size "guess" array
 	int strike = 0, ball = 0;
 	for (int i = 0; i < size; i++) {
-		scanf("%d", &guess[i]);
+		scanf("%d", &guess[i]);//get input in "guess" array
 		if (guess[i] == arr[i]) {
-			strike++;
+			strike++;//if index of both array are same, add +1 to strike variable
 		}
 		else {
 			for (int j = 0; j < size; j++) {
-				if (guess[i] == arr[j]) {
+				if (guess[i] == arr[j]) {// if index of both array are different, add +1 to ball variable
 					ball++;
 					break;
 				}
@@ -27,11 +27,11 @@ int PlayBullsAndCows(int arr[], int size) {
 		}
 	}
 	free(guess);
-	return strike * 10 + ball;
+	return strike * 10 + ball;//return value
 }
 
 void CreateRandomNumbers(int arr[], int size) {
-	srand(time(NULL));
+	srand(time(NULL));//create Random Numbers for playing BullAndCows Game
 	for (int i = 0; i < size; i++) {
 		arr[i] = rand() % 10;
 		for (int j = 0; j < i; j++) {
