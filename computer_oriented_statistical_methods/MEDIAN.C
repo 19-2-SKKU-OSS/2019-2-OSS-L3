@@ -15,7 +15,7 @@ void main()
 	{
 		a[i]=rand()%100;
 	}
-	printf("Random Numbers Generated are : ");
+	printf("Random Numbers Generated are : "); //랜덤으로 생성된 숫자를 커널창에 나타나진다
 	for(i=0;i<n;i++)
 	{
 		printf("%d ",a[i]);
@@ -28,7 +28,7 @@ void main()
 		{
 			if(a[j + 1]<a[j])
 			{
-				temp=a[j + 1];
+				temp=a[j + 1];//임시적으로 저장할 공간을 만드는 변수이다
 				a[j + 1]=a[j];
 				a[j]=temp;
 			}
@@ -41,12 +41,12 @@ void main()
 
 	if(n%2==0)
 	{
-		median = (a[n/2]+a[(n/2)-1]) / (double)2;
+		median = (a[n/2]+a[(n/2)-1]) / (double)2;//중간값을 저장하는 변수에 중간값을 저장한다
 	}
 	else
 	{
 		median=a[n/2];
 	}
-	printf("\nMedian is : %lf",median);
+	printf("\nMedian is : %lf",median);//중간값을 출력한다
 	getch();
 }
