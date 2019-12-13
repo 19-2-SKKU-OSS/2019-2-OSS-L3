@@ -1,0 +1,25 @@
+Dynamic_Programming
+-------------------------
+- Binomal_Coefficient.c
+- Count_Ways_to_reach_stair.c
+- Count_number_of_ways_to_reach_a_given_score_in_a_game.c
+- Egg_Dropping_Puzzle.c
+- Floyd_Warshall_Algorithm.c
+- Knapsack_Problem.c
+- Largest_Independent_Set_Problem.c
+- Longest_Common_Subsequence.c
+- Longest_Even_Length_Substring.c
+- Longest_Increasing_Subsequence.c
+- Longest_Palindromic_Subsequence.c
+- Longest_Palindromic_Substring.c
+- Matrix_Chain_Multipulication.c
+- Maximum_Sum_Increasing_Subsequence.c
+- Maximum_Sum_rectangle_in_a_2D_matrix.c
+- Min_Cost_Path.c
+- Optimal_Binary_Search_Tree.c
+- Overlapping_Subproblems_Property.c
+- Palindrome_Partitioning.c
+- Partition_Problem.c
+- Ugly_Number.c
+- Vertex_Cover_Problem.c
+- Word_Wrap_Problem.c
