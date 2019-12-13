@@ -1,5 +1,9 @@
 BIT ALGORITHM
 ==========================
+Algorithms that use bit-level operations, such as little endian and big endian. 
+Use arithmetic symbols such as and, or, xor, shift, etc. to determine whether they are multiples, etc.
+
+Followings are implemented: 
 - detect_opposite_signs.c
 - find_single_number.c
 - swap_bits.c
