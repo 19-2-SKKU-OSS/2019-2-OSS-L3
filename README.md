@@ -22,7 +22,7 @@ We expect our project very energetic!
 
 **박성민 Park Sungmin `MelonSungMin`**
 - student ID : 2018312186
-- E-mail : jumis77@naver.com
+- E-mail : jumis077@naver.com
 - Role : Code editing of the other Searching and Sorting Algorithm
 
 **김지희 Kim Jihee `mii2026`**
